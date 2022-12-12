@@ -8,6 +8,7 @@ Built using React JS
 
 
 # BackEnd
+Built using Node JS
 1) cd server
 2) npm install
 3) npm start
@@ -15,5 +16,6 @@ Built using React JS
 # Database
 Postgresql
 
-Table 1) Grid
-Table 2) Game
+Tables 
+1) Grid
+2) Game
